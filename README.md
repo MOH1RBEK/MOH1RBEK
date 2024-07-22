@@ -3,8 +3,10 @@
      My computing work is in the field of programming. I devote my free time to the development of the field of
      programming (my dream is to benefit humanity, that's the greatest happiness for me).
 - 🌱 I’m currently learning -
-       - Front-end development
-       - Back-end development
+        Front-end development
+            React-Native, 
+        Back-end development
+            C++, Java, Node.js and other 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
