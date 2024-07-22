@@ -4,12 +4,16 @@
      programming (my dream is to benefit humanity, that's the greatest happiness for me).
 - 🌱 I’m currently learning -
         Front-end development
-            React-Native, 
+            HTML
+            CSS
+            JavaScript
+            React.js, 
         Back-end development
             C++, Java, Node.js and other 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me:
+        📱 t.me/@moh1rbek
+- 😄 My skills: HTML, CSS, C++, Java, Node.js, Python, Git, gitHUB,
 - ⚡ Fun fact: ...
 
 <!---
